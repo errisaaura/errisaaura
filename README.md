@@ -7,18 +7,17 @@
 <!--About Me-->
 ### About Me:
 
-    - 🔭 I’m currently studying at SMK Telkom Malang 
-    - 🌱 I’m currently learning Framework Node.js and React.js 
-    - 🤔 I’m looking for help with master of programming. hehe 
+    - 🔭 I’m Fresh Graduate from SMK Telkom Malang 
+    - 🌱 I’m currently learning Framework Node.js and React.js
+    - ⚡ I'm also learning Go use Framework Gin
+    - 👯 I’m looking to collaborate on create application website etc.
     - 💬 Ask me about anything.
-    - 😄 Pronouns: She/Her 
 
 <!--Tools I used-->
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/errisaaura" />
 </p>
 
 <!--Statistik-->
