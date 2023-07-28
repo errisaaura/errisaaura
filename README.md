@@ -26,9 +26,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errisaaura&show_icons=true&theme=github_dark)
 
-![Errisa Aura Hidayah's github stats](https://github-readme-stats.vercel.app/api?username=errisaaura&show_icons=true&theme=github_dark)
+<!-- ![Errisa Aura Hidayah's github stats](https://github-readme-stats.vercel.app/api?username=errisaaura&show_icons=true&theme=github_dark) -->
 
-![Errisa Aura Hidayah's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=errisaaura&theme=react-dark)
+<!-- ![Errisa Aura Hidayah's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=errisaaura&theme=react-dark) -->
 
 
 <!--Sosmed-->
